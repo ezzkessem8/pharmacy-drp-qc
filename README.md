@@ -53,7 +53,7 @@ In Kenya specifically, this kind of dispensing-QC step lines up with the Pharmac
 
 ## Files in this project
 
-- `Pharmacy-README.md` — this file (rename to `README.md` at the repo root)
+- `README.md` — this file
 - `Pharmacy-DRP-Screening-Guide.md` — the PCNE-based classification standard
 - `Pharmacy-DRP-Log.xlsx` — DRP log, summary + chart, and the point-of-dispensing checklist
 
